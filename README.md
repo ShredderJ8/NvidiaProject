@@ -1,4 +1,4 @@
-## Hand Calculator Project
+## Hand Number Project
 
 This project uses a USB camera to detect a number on a single hand (1, 2, 3, 4, 5) and then outputs said number. It also can detect a plus or minus sign. 
 
