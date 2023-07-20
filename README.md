@@ -22,4 +22,4 @@ Using the widgets from the output screen, the user can create their own dataset 
 12. Repeat steps 9-11 until you're happy with the accuracy of the predictions
 
 
-[VIDEO]([url](https://youtu.be/CaiOU4Dijkg)https://youtu.be/CaiOU4Dijkg)
+[VIDEO](https://youtu.be/CaiOU4Dijkg)
